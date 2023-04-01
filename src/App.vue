@@ -11,10 +11,8 @@
 </template>
 
 <script>
-import ChildComponent from "./components/ChildComponent.vue";
 
 export default {
-  components: {ChildComponent},
   data() {
     return {
       Value1: false,
